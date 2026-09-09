@@ -1,0 +1,24 @@
+{
+  "name": "근무표 정리",
+  "short_name": "근무표",
+  "description": "스케줄 캡처를 주차별 일정으로 정리해 저장하는 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFAF5",
+  "theme_color": "#5D5B7D",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
